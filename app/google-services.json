@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317540882660",
+    "project_id": "sampark-8e759",
+    "storage_bucket": "sampark-8e759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317540882660:android:c4396e9325701ad1ac74f1",
+        "android_client_info": {
+          "package_name": "com.example.sampark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317540882660-8tskb538elqh2137vt2rh7se2r0vf0b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgD8zfgtNVHjqIMAMGDER98hcioTR3Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317540882660-8tskb538elqh2137vt2rh7se2r0vf0b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
